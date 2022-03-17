@@ -1,6 +1,6 @@
 {
 	"ip":"DerFoxx.aternos.me",
 	"port": "21178",
-	"name": "AFK-Bot",
+	"name": "AFKBot",
 	"auto-night-skip":"false"
 }
